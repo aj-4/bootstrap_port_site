@@ -48,7 +48,7 @@ img {
 }
 
 #stage-caption h1 {
-	color: #404648;
+	color: #A1A390;
 	font-weight: bold;
 	text-transform: uppercase;
 }
@@ -63,7 +63,7 @@ img {
 }
 
 .feature-dark {
-	background: #262F36;
+	background: #8FBAA2;
 	color: white;
 }
 
@@ -71,6 +71,9 @@ img {
 	color: white;
 }
 
+.feature-dark-2 {
+	background: #A9CBBA;
+}
 
 
 
